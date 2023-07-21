@@ -1,0 +1,12 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "node calculator.js"
+  },
+  "author": "Grant",
+  "license": "ISC",
+  "type": "module"
+}
